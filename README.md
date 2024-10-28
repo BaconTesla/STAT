@@ -1,0 +1,2 @@
+# STAT
+learn statistics
